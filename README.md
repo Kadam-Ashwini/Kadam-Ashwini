@@ -12,8 +12,9 @@
 - 🎓 Pursuing **MCA (Cloud Computing)** at **Dr. Moonje Institute, Nashik**
 - 🌱 Currently learning **Docker**, **Kubernetes**, **Cloud Architecture** & **programming languages like Java & Python**
 - 💻 Building Full Stack Applications using **Java, Python, PHP**
+- 🌐 Know about my experience: https://github.com/Kadam-Ashwini
 - 💬 Ask me about **Java • Python • Spring Boot • Docker • Kubernetes • MySQL**
-- 🌐 Know about my experience: **https://kadam-ashwini.github.io/ashwini-portfolio/**
+- 🌐 portfolio: **https://kadam-ashwini.github.io/ashwini-portfolio/**
 - 📧 How to reach me: **kadamashwini717@gmail.com**
 - 🔗 Connect with me on LinkedIn: **https://www.linkedin.com/in/ashwini-s-kadam/**
 - ⚡ Fun Fact: **I think like a developer and a business strategist.**
