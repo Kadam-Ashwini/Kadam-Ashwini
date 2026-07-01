@@ -4,9 +4,7 @@
 ☁️ Aspiring Cloud Engineer • 💻 Full Stack Developer • 🎓 MCA Scholar
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7C6EF5&center=true&vCenter=true&width=650&lines=Cloud+Computing+Enthusiast+☁️;Full+Stack+Developer+💻;Docker+%26+Kubernetes+Explorer+🐳;Spring+Boot+Learner+🚀;Building+Scalable+Solutions+💜" alt="Typing Animation"/>
-</p>
+
 
 ---
 
