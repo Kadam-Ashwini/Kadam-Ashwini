@@ -5,7 +5,6 @@
 </h3>
 
 
-
 ---
 
 # 👩‍💻 About Me
@@ -14,9 +13,9 @@
 - 🌱 Currently learning **Docker**, **Kubernetes**, **Cloud Architecture** & **programming languages like Java & Python**
 - 💻 Building Full Stack Applications using **Java, Python, PHP**
 - 💬 Ask me about **Java • Python • Spring Boot • Docker • Kubernetes • MySQL**
-- 🌐 Portfolio: **https://kadam-ashwini.github.io/ashwini-portfolio/**
-- 📧 Email: **kadamashwini717@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/ashwini-s-kadam/**
+- 🌐 Know about my experience: **https://kadam-ashwini.github.io/ashwini-portfolio/**
+- 📧 How to reach me: **kadamashwini717@gmail.com**
+- 🔗 Connect with me on LinkedIn: **https://www.linkedin.com/in/ashwini-s-kadam/**
 - ⚡ Fun Fact: **I think like a developer and a business strategist.**
 
 ---
