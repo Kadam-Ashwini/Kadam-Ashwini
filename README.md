@@ -1,13 +1,17 @@
-<h1 align="center">
-Hi 👋, I'm Ashwini Kadam
-</h1>
+<h1 align="center">Hi 👋, I'm Ashwini Kadam</h1>
 
 <h3 align="center">
-☁️ Cloud Computing Enthusiast | Full Stack Developer | MCA Scholar | Java & Spring Boot Developer
+☁️ Aspiring Cloud Engineer | Full Stack Developer | MCA Scholar
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C6EF5&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Cloud+Computing+%7C+Java+Developer;Spring+Boot+%7C+Docker+%7C+Kubernetes;Full+Stack+Application+Developer;Building+Scalable+Solutions+for+Tomorrow+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C6EF5&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Aspiring+Cloud+Engineer+☁️;Full+Stack+Developer+💻;Java+%7C+Spring+Boot+%7C+Docker;Learning+Cloud+Architecture+🚀;Always+Learning+Something+New!" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kadam-Ashwini&label=Profile+Views&color=7C6EF5&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Kadam-Ashwini?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/Kadam-Ashwini?affiliations=OWNER&style=for-the-badge&color=orange"/>
 </p>
 
 ---
@@ -15,37 +19,40 @@ Hi 👋, I'm Ashwini Kadam
 # 👩‍💻 About Me
 
 🎓 Pursuing **Master of Computer Applications (MCA)**  
-📍 Dr. Moonje Institute, Nashik
+🏫 **Dr. Moonje Institute, Nashik**
 
-☁️ Passionate about designing scalable cloud-based applications and modern web solutions.
+☁️ Passionate about **Cloud Computing**, **DevOps**, and **Full Stack Development**.
 
-💻 I enjoy building complete applications from frontend to backend while continuously exploring Cloud Computing, DevOps and Microservices.
-
----
-
-## 🚀 Currently
-
-- 🌱 Learning **Docker**
-- ☸️ Exploring **Kubernetes**
-- ☁️ Studying **AWS Cloud Architecture**
-- ⚡ Building projects using **Spring Boot**
-- 📚 Improving DSA & System Design
+💻 I enjoy building scalable web applications using modern backend technologies while continuously learning cloud-native development.
 
 ---
 
-## 💼 Portfolio
+## 🚀 Currently Learning
 
-🌐 **Portfolio**
+- ☁️ Cloud Computing
+- Docker
+- Kubernetes
+- Spring Boot
+- Cloud Architecture
+- REST APIs
+- Microservices
+- DevOps Fundamentals
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio**
 
 https://Kadam-Ashwini.github.io/portfolio/
 
 ---
 
-## 📫 Reach Me
+## 📫 Connect With Me
 
 📧 **Email**
 
-kadamashwini717@gmail.com
+**kadamashwini717@gmail.com**
 
 💼 **LinkedIn**
 
@@ -55,61 +62,79 @@ https://www.linkedin.com/in/ashwini-s-kadam/
 
 # 💻 Tech Stack
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,git,github" />
-
-</p>
-
-### 👨‍💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,php,cpp,js" />
-
-</p>
-
-### 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" />
-
-</p>
-
-### ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,django,mysql,mongodb,sqlite,postman" />
-
-</p>
-
-### 🛠️ Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,git,github"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,php,cpp,javascript"/>
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,django"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kadam-Ashwini&show_icons=true&theme=tokyonight&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kadam-Ashwini&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kadam-Ashwini&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Kadam-Ashwini&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadam-Ashwini&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadam-Ashwini&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -119,13 +144,13 @@ https://www.linkedin.com/in/ashwini-s-kadam/
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kadam-Ashwini&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kadam-Ashwini&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -135,54 +160,87 @@ https://www.linkedin.com/in/ashwini-s-kadam/
 
 ---
 
-# 🎯 Areas of Interest
-
-- ☁️ Cloud Computing
-- Docker
-- Kubernetes
-- DevOps
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- Full Stack Development
-- System Design
-- Database Design
-
----
-
-# 📚 Certifications
+# 💡 Areas of Interest
 
 ✔ Cloud Computing
 
-✔ Java Programming
+✔ DevOps
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Java Development
 
 ✔ Spring Boot
 
-✔ Python
+✔ REST APIs
+
+✔ Microservices
 
 ✔ Full Stack Development
 
-(Add certificate links here)
+✔ Database Design
+
+✔ Software Development
 
 ---
 
-# 💡 Quote
+# 📚 Education
 
-> *"Technology is best when it brings people together."* — Matt Mullenweg
+🎓 **Master of Computer Applications (MCA)**
+
+📍 Dr. Moonje Institute, Nashik
+
+Specialization: **Cloud Computing**
+
+---
+
+# 🌱 Current Focus
+
+✔ Learning Cloud Technologies
+
+✔ Building Full Stack Projects
+
+✔ Exploring Containerization
+
+✔ Improving Problem Solving
+
+✔ Developing Scalable Applications
+
+---
+
+# 📌 Ask Me About
+
+- Java
+- Spring Boot
+- Python
+- Django
+- Docker
+- Kubernetes
+- MySQL
+- PHP
+- Angular
+- Cloud Computing
+
+---
+
+# ⚡ Fun Fact
+
+> **I think like a developer and a business strategist — thanks to my BBA-CA background! 🚀**
+
+---
+
+# 💬 Favorite Quote
+
+> **"The best way to predict the future is to create it." – Peter Drucker**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kadam-Ashwini&style=for-the-badge&color=blueviolet"/>
+### ⭐ Thanks for visiting my profile!
+
+*"Building tomorrow's cloud-powered solutions, one commit at a time."* ☁️🚀
 
 </p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-Let's build something amazing together. 🚀
-
-</h3>
