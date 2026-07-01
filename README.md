@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Docker**, **Kubernetes**, **Cloud Architecture** & **programming languages like Java & Python**
 - 💻 Building Full Stack Applications using **Java, Python, PHP**
 - 💬 Ask me about **Java • Python • Spring Boot • Docker • Kubernetes • MySQL**
-- 🌐 Portfolio: **https://Kadam-Ashwini.github.io/portfolio/**
+- 🌐 Portfolio: **https://kadam-ashwini.github.io/ashwini-portfolio/**
 - 📧 Email: **kadamashwini717@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/ashwini-s-kadam/**
 - ⚡ Fun Fact: **I think like a developer and a business strategist.**
@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://Kadam-Ashwini.github.io/portfolio/" target="_blank">
+<a href="https://kadam-ashwini.github.io/ashwini-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-7C6EF5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
